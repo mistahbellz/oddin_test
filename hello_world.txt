@@ -1,1 +1,3 @@
 this is the new file for git. 
+
+Made a new commit also with***** THIS VERY LINE OF TEXT****
